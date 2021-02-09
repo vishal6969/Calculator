@@ -1,0 +1,39 @@
+body{
+    background-color:rgb(100,50,100);
+}
+#inp{
+    width:80%;
+    height:50px;
+    margin:5%;
+    text-align:center;
+    font-size:150%;
+}
+#inp:hover{
+    background:black;
+    color:white;
+}
+.btn,.C,.eq,.B{
+    width:20%;
+    height:50px;
+    position:static;
+    font-size:120%;
+}
+.C{
+margin-top:5px;
+}
+.btn:hover{
+    background-color:skyblue;
+    border:2px solid black;
+}
+.C:hover{
+background-color:blue;
+}
+.eq:hover{
+    background-color:red;
+}
+.B:hover{
+    background-color:yellow;
+}
+.buttons{
+    margin:5%;
+}
